@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Placemark
 
 An approval-gated, multi-agent placement assistant. Upload a resume, search and
@@ -275,3 +276,6 @@ The Job Agent searches multiple free, no-auth providers:
 Set `JOBS_PROVIDER=multi` in the Render backend environment to search both
 providers and merge results. Default is `auto` (Jobicy first, mock fallback).
 Results are ranked against your resume skills and an optional location filter.
+=======
+# PlaceMark
+>>>>>>> 6cf1362254cacf6a026674f546361767ccc25b91
